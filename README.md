@@ -1,7 +1,7 @@
 <div align="center">
 
 ### cybersecurity enjoyer
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiralive&show_icons=true&theme=tokyonight&hide_border=true)
+![Metrics](https://metrics.lecoq.io/nogueiralive?template=classic&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
